@@ -94,7 +94,7 @@ export const CARRERAS = [
     id: "informatica-2020",
     link: "https://fi.uba.ar/grado/carreras/ingenieria-en-informatica/plan-de-estudios",
     ano: 2020,
-    graph: require("./data/informatica-2020.json"),
+    graph: require("./data/bioquimica.json"),
     finDeCarrera: [
       { id: "tesis", materia: "TESIS" },
       { id: "tpp", materia: "TPP" },

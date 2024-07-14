@@ -1,0 +1,487 @@
+[
+    {
+      "id": "CBC51",
+      "materia": "Matemática",
+      "creditos": 9,
+      "categoria": "*CBC",
+      "level": -2
+    },
+    {
+      "id": "CBC54",
+      "materia": "Biologia Celular",
+      "creditos": 9,
+      "categoria": "*CBC",
+      "level": -2
+    },
+    {
+      "id": "CBC24",
+      "materia": "Introducción al Conocimiento de la Sociedad y el Estado",
+      "creditos": 4,
+      "categoria": "*CBC",
+      "level": -2
+    },
+    {
+      "id": "CBC53",
+      "materia": "Biofísica",
+      "creditos": 6,
+      "categoria": "*CBC",
+      "level": -1
+    },
+    {
+      "id": "CBC05",
+      "materia": "Quimica",
+      "creditos": 6,
+      "categoria": "*CBC",
+      "level": -1
+    },
+    {
+      "id": "CBC40",
+      "materia": "Introducción al Pensamiento Científico",
+      "creditos": 4,
+      "categoria": "*CBC",
+      "level": -1
+    },
+    {
+      "id": "CBC",
+      "materia": "Ciclo Básico Común",
+      "creditos": 0,
+      "categoria": "CBC",
+      "level": 0,
+      "correlativas": "CBC66-CBC62-CBC3-CBC90-CBC24-CBC40"
+    },
+    {
+      "id": "07",
+      "materia": "Química General e Inorgánica",
+      "creditos": 8,
+      "correlativas_cursar": "CBC",
+      "correlativas_rendir": "",
+      "categoria": "Materias Obligatorias",
+      "level": 1
+    },
+    {
+      "id": "08",
+      "materia": "Matemática",
+      "creditos": 6,
+      "correlativas_cursar": "CBC",
+      "correlativas_rendir": "",
+      "categoria": "Materias Obligatorias",
+      "level": 1
+    },
+    {
+      "id": "09",
+      "materia": "Anatomía e Histología",
+      "creditos": 6,
+      "correlativas_cursar": "CBC",
+      "correlativas_rendir": "",
+      "categoria": "Materias Obligatorias",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "materia": "Física",
+      "creditos": 8,
+      "correlativas_cursar": "C08",
+      "correlativas_rendir": "",
+      "categoria": "Materias Obligatorias",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "materia": "Biología Celular y Molecular",
+      "creditos": 6,
+      "correlativas_cursar": "C09",
+      "correlativas_rendir": "",
+      "categoria": "Materias Obligatorias",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "materia": "Química Orgánica I",
+      "creditos": 6,
+      "correlativas_cursar": "C07",
+      "correlativas_rendir": "R07",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "materia": "Química Orgánica II",
+      "creditos": 6,
+      "correlativas_cursar": "C10-C12",
+      "correlativas_rendir": "R12",
+      "categoria": "Materias Obligatorias",
+      "level": 3
+    },
+    {
+      "id": "14",
+      "materia": "Fisiología",
+      "creditos": 6,
+      "correlativas_cursar": "R09-C11",
+      "correlativas_rendir": "R11",
+      "categoria": "Materias Obligatorias",
+      "level": 3
+    },
+    {
+      "id": "15",
+      "materia": "Química Analítica",
+      "creditos": 6,
+      "correlativas_cursar": "R07-C08",
+      "correlativas_rendir": "R08",
+      "categoria": "Materias Obligatorias",
+      "level": 3
+    },
+    {
+      "id": "16",
+      "materia": "Fisicoquímica",
+      "creditos": 6,
+      "correlativas_cursar": "R07-C10",
+      "correlativas_rendir": "R10",
+      "categoria": "Materias Obligatorias",
+      "level": 4
+    },
+    {
+      "id": "17",
+      "materia": "Química Analítica Instrumental",
+      "creditos": 4,
+      "correlativas_cursar": "R10-C15",
+      "correlativas_rendir": "R15",
+      "categoria": "Materias Obligatorias",
+      "level": 4
+    },
+    {
+      "id": "18",
+      "materia": "Química Biológica",
+      "creditos": 6,
+      "correlativas_cursar": "R11-C13",
+      "correlativas_rendir": "R13",
+      "categoria": "Materias Obligatorias",
+      "level": 4
+    },
+    {
+      "id": "19",
+      "materia": "Fisiopatología",
+      "creditos": 8,
+      "correlativas_cursar": "C14",
+      "correlativas_rendir": "R14",
+      "categoria": "Materias Obligatorias",
+      "level": 5
+    },
+    {
+      "id": "20",
+      "materia": "Microbiología",
+      "creditos": 8,
+      "correlativas_cursar": "C18",
+      "correlativas_rendir": "",
+      "categoria": "Materias Obligatorias",
+      "level": 5
+    },
+    {
+      "id": "21",
+      "materia": "Química Biológica Superior",
+      "creditos": 6,
+      "correlativas_cursar": "C16-C17-C18",
+      "correlativas_rendir": "R16-R18",
+      "categoria": "Materias Obligatorias",
+      "level": 5
+    },
+    {
+      "id": "22",
+      "materia": "Genética Molecular",
+      "creditos": 6,
+      "correlativas_cursar": "C18",
+      "correlativas_rendir": "",
+      "categoria": "Materias Obligatorias",
+      "level": 5
+    },
+    {
+      "id": "23",
+      "materia": "Inmunología",
+      "creditos": 6,
+      "correlativas_cursar": "R14-C20",
+      "correlativas_rendir": "R18",
+      "categoria": "Materias Obligatorias",
+      "level": 6
+    },
+    {
+      "id": "24",
+      "materia": "Farmacología",
+      "creditos": 6,
+      "correlativas_cursar": "R14-C18-C19",
+      "correlativas_rendir": "R18",
+      "categoria": "Materias Obligatorias",
+      "level": 6
+    },
+    {
+      "id": "25",
+      "materia": "Biotecnología",
+      "creditos": 4,
+      "correlativas_cursar": "C20-C22",
+      "correlativas_rendir": "R20-R22",
+      "categoria": "Materias Obligatorias",
+      "level": 6
+    },
+    {
+      "id": "26",
+      "materia": "Virología",
+      "creditos": 6,
+      "correlativas_cursar": "C20-C22",
+      "correlativas_rendir": "R20-R22",
+      "categoria": "Materias Obligatorias",
+      "level": 6
+    },
+    {
+      "id": "27",
+      "materia": "Nutrición",
+      "creditos": 8,
+      "correlativas_cursar": "R14-R18-C19",
+      "correlativas_rendir": "R19",
+      "categoria": "Materias Obligatorias",
+      "level": 6
+    },
+    {
+      "id": "28",
+      "materia": "Microbiología Clínica",
+      "creditos": 6,
+      "correlativas_cursar": "C19-C23-C26",
+      "correlativas_rendir": "R19-R20-R23",
+      "categoria": "Materias Obligatorias",
+      "level": 7
+    },
+    {
+      "id": "29",
+      "materia": "Bioquímica Clínica I",
+      "creditos": 6,
+      "correlativas_cursar": "R18-C19-C21-C23",
+      "correlativas_rendir": "R19-R23",
+      "categoria": "Materias Obligatorias",
+      "level": 7
+    },
+    {
+      "id": "30",
+      "materia": "Práct. Prof. Bioquímica Interna",
+      "creditos": 8,
+      "categoria": "Materias Obligatorias",
+      "level": 7
+    },
+    {
+      "id": "31",
+      "materia": "Toxicología y Química Legal",
+      "creditos": 8,
+      "correlativas_cursar": "R15-R18-C17-C24",
+      "correlativas_rendir": "R17-R24",
+      "categoria": "Materias Obligatorias",
+      "level": 8
+    },
+    {
+      "id": "32",
+      "materia": "Bromatología",
+      "creditos": 8,
+      "correlativas_cursar": "C20-C27",
+      "correlativas_rendir": "R20",
+      "categoria": "Materias Obligatorias",
+      "level": 8
+    },
+    {
+      "id": "33",
+      "materia": "Bioquímica de Metabolopatias",
+      "creditos": 8,
+      "correlativas_cursar": "C18-C19",
+      "correlativas_rendir": "R18-R19",
+      "categoria": "Materias Obligatorias",
+      "level": 8
+    },
+    {
+      "id": "34",
+      "materia": "Genética Forense",
+      "creditos": 8,
+      "correlativas_cursar": "C22",
+      "correlativas_rendir": "R22",
+      "categoria": "Materias Obligatorias",
+      "level": 8
+    },
+    {
+      "id": "35",
+      "materia": "Bioquímica Clínica II",
+      "creditos": 8,
+      "correlativas_cursar": "R19-C29",
+      "correlativas_rendir": "R21",
+      "categoria": "Materias Obligatorias",
+      "level": 8
+    },
+    {
+      "id": "36",
+      "materia": "Práct.Prof. Bioquímica Interna II",
+      "creditos": 8,
+      "categoria": "Materias Obligatorias",
+      "level": 8
+    },
+    {
+      "id": "LYCI",
+      "materia": "Lenguajes y Compiladores I",
+      "creditos": 6,
+      "correlativas": "PDP-ORGCOMPU-TDA",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "FMCRIPTO",
+      "materia": "Fundamentos Matemáticos de la Criptografía",
+      "creditos": 6,
+      "correlativas": "AL",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "CRIPTOI",
+      "materia": "Criptografía I",
+      "creditos": 6,
+      "correlativas": "AL-TDA",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "CRIPTOII",
+      "materia": "Criptografía II",
+      "creditos": 6,
+      "correlativas": "FMCRIPTO-CRIPTOI",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "SDII",
+      "materia": "Sistemas Distribuidos II",
+      "creditos": 6,
+      "correlativas": "SDI",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "TII",
+      "materia": "Técnicas de Ingeniería Inversa",
+      "creditos": 6,
+      "correlativas": "CRIPTOI-TDSINF",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "CRIPTOAN",
+      "materia": "Criptoanálisis",
+      "creditos": 6,
+      "correlativas": "CRIPTOI-TDSINF",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "IDD",
+      "materia": "Ingeniería de Datos",
+      "creditos": 6,
+      "correlativas": "CDD-INGSOFTII",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "OPTCONV",
+      "materia": "Optimización Convexa",
+      "creditos": 6,
+      "correlativas": "CDD",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "AA",
+      "materia": "Aprendizaje Automático",
+      "creditos": 6,
+      "correlativas": "CDD",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "AP",
+      "materia": "Aprendizaje Profundo",
+      "creditos": 6,
+      "correlativas": "AA",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "APR",
+      "materia": "Aprendizaje por Refuerzo",
+      "creditos": 6,
+      "correlativas": "AA",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "SIM",
+      "materia": "Simulación",
+      "creditos": 6,
+      "correlativas": "PYE-MODNUM",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "SISTC",
+      "materia": "Sistemas Complejos",
+      "creditos": 6,
+      "correlativas": "PYE-MODNUM",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "REDESC",
+      "materia": "Redes Complejas",
+      "creditos": 6,
+      "correlativas": "SISTC-TADJ",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "TADJ",
+      "materia": "Teoría Algorítmica de Juegos",
+      "creditos": 4,
+      "correlativas": "AMII-AL-TDA",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "TDCOMPU",
+      "materia": "Teoría de Computabilidad",
+      "creditos": 6,
+      "correlativas": "LYCI-TDA",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "TDLI",
+      "materia": "Teoría de la Información",
+      "creditos": 6,
+      "correlativas": "PYE-TDA",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "CC",
+      "materia": "Computación Cuántica",
+      "creditos": 6,
+      "correlativas": "PYE",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "LYCII",
+      "materia": "Lenguajes y Compiladores II",
+      "creditos": 6,
+      "correlativas": "LYCI-SISOPS",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "AMIII",
+      "materia": "Análisis Matemático III",
+      "creditos": 6,
+      "correlativas": "AMII-AL",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "ARQSOFT",
+      "materia": "Arquitectura de Software",
+      "creditos": 4,
+      "correlativas": "INGSOFTI",
+      "categoria": "Materias Electivas"
+    },
+    {
+      "id": "TPP",
+      "materia": "Trabajo Profesional de Ingeniería Informática",
+      "creditos": 12,
+      "requiere": 140,
+      "requiereCBC": true,
+      "categoria": "Fin de Carrera"
+    },
+    {
+      "id": "TESIS",
+      "materia": "Tesis de Ingeniería Informática",
+      "creditos": 12,
+      "requiere": 140,
+      "requiereCBC": true,
+      "categoria": "Fin de Carrera"
+    }
+  ]
